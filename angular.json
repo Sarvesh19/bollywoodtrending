@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bollywood-trend"
+    }
+  },
+  "defaultProject": "bollywood-trend",
+  "cli": {
+    "analytics": "2deba171-f1f7-441a-a746-c9f4be5b958f"
+  }
 }
